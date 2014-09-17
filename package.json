@@ -1,0 +1,14 @@
+{
+  "name": "ArcherJitsu",
+  "version": "0.0.0",
+  "description": "Chat Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weldon H and the ACOSF",
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "Socket.IO"
+  ]
+}
